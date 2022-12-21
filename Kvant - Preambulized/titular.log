@@ -1,0 +1,2304 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.15)  17 NOV 2022 01:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./titular.tex
+(titular.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26>
+(C:\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2022-10-26 L3 backend support: XeTeX
+\g__graphics_track_int=\count181
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count182
+\g__pdf_backend_annotation_int=\count183
+\g__pdf_backend_link_int=\count184
+) (titular.aux)
+\openout1 = `titular.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+.
+
+(C:\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.3 \pagestyle{fancy}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 \fancyhf
+            {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Command \headrulewidth undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \renewcommand{\headrulewidth}
+                                 {0pt}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.6 \fancyfoot
+              [RO]{\textbf{\LARGE\thepage}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \LARGE 
+                       
+l.6 \fancyfoot[RO]{\textbf{\LARGE\thepage}
+                                          }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \LARGE \thepage 
+                           
+l.6 \fancyfoot[RO]{\textbf{\LARGE\thepage}
+                                          }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment Biglogo undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{Biglogo}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.12 \includegraphics
+                     [width=0.7\linewidth]{Kvant_logo}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.12 \includegraphics[width=0.7\linewidth]
+                                          {Kvant_logo}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.12 \includegraphics[width=0.7\linewidth]
+                                          {Kvant_logo}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.12 \includegraphics[width=0.7\linewidth]{Kvant_
+                                                 logo}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+! Extra }, or forgotten $.
+l.12 ...egraphics[width=0.7\linewidth]{Kvant_logo}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no О in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman10-italic]:mapping=tex-text;!
+
+! LaTeX Error: \begin{minipage} on input line 9 ended by \end{Biglogo}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \end{Biglogo}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.18 \end{Biglogo}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ж in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman9-italic]:mapping=tex-text;!
+! Undefined control sequence.
+l.25 \includegraphics
+                     [width=\linewidth]{nauka}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.25 \includegraphics[width=\linewidth]
+                                       {nauka}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.25 \includegraphics[width=\linewidth]
+                                       {nauka}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Calculating math sizes for size <8.56006> on input line 26.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.56006> not available
+(Font)              size <9> substituted on input line 26.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.28003> not available
+(Font)              size <5> substituted on input line 26.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <8.56006> not available
+(Font)              size <9> substituted on input line 26.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.28003> not available
+(Font)              size <5> substituted on input line 26.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.56006> not available
+(Font)              size <9> substituted on input line 26.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.28003> not available
+(Font)              size <5> substituted on input line 26.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8.56006> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.992> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.28003> on input line 26.
+Missing character: There is no И in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no Н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no Г in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman9-italic]:mapping=tex-text;!
+Missing character: There is no В in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman17-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman17-regular]:mapping=tex-text;!
+
+! LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \begin{tabularx}
+                     {\linewidth}{lX}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.47 \begin{tabularx}{\linewidth}
+                                 {lX}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.47 \begin{tabularx}{\linewidth}
+                                 {lX}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Undefined control sequence.
+l.48 {\bf
+          2} & {\itshape И. Д. Новиков.} Вселенная как тепловая машина\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.48 {\bf 2} &
+               {\itshape И. Д. Новиков.} Вселенная как тепловая машина\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no И in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Д in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no В in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.49 {\bf
+          9} & {\itshape Ю. М. Львов, Л. А. Фейгн.} Ленгмюровские пленки ---...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.49 {\bf 9} &
+               {\itshape Ю. М. Львов, Л. А. Фейгн.} Ленгмюровские пленки ---...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no Ю in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Л in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Л in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no э in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.50 {\bf
+          14} & {\itshape М. Гарднер.} Рамсеевская теория графов\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.50 {\bf 14} &
+                {\itshape М. Гарднер.} Рамсеевская теория графов\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no М in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Г in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.51 {\bf
+          21} & {\itshape} Интервью с американским математиком Рональдом Грэ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.51 {\bf 21} &
+                {\itshape} Интервью с американским математиком Рональдом Грэ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no И in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no э in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.52 &
+       \vspace{1dd}{\bf Задачник <<Кванта>>}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.52 & \vspace{1dd}{\bf
+                        Задачник <<Кванта>>}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no З in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.53 {\bf
+          27} & Задачи М1096-М1100, Ф110--Ф1112\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.53 {\bf 27} &
+                Задачи М1096-М1100, Ф110--Ф1112\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no З in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.54 {\bf
+          28} & Problems М109--М1100, Ф1108-Ф1112\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.54 {\bf 28} &
+                Problems М109--М1100, Ф1108-Ф1112\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.55 {\bf
+          29} & Решения задач М1071, М1076-М1080, Ф1088-Ф1092\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.55 {\bf 29} &
+                Решения задач М1071, М1076-М1080, Ф1088-Ф1092\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no Р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.56 {\bf
+          36} & Избранные школьные задачи\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.56 {\bf 36} &
+                Избранные школьные задачи\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no И in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.57 &
+       \vspace{1dd}{\bf <<Кванта>> для младших школьников }\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.57 & \vspace{1dd}{\bf
+                        <<Кванта>> для младших школьников }\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.58 {\bf
+          37} & Задачи\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.58 {\bf 37} &
+                Задачи\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no З in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.59 {\bf
+          38} & {\itshape А. П. Савин.} Десять цифры\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.59 {\bf 38} &
+                {\itshape А. П. Савин.} Десять цифры\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no А in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no П in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.60 &
+       \vspace{1dd}{\bf Калейдоском <<Кванта>>}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.60 & \vspace{1dd}{\bf
+                        Калейдоском <<Кванта>>}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.61 {\bf
+          40} & Простые машины\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.61 {\bf 40} &
+                Простые машины\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no П in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.62 &
+       \vspace{1dd}{\bf Лаборатория <<Кванта>>}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.62 & \vspace{1dd}{\bf
+                        Лаборатория <<Кванта>>}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.63 {\bf
+          44} & {\itshape В. Ф. Яковлев} <<Физика для дураков>>\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.63 {\bf 44} &
+                {\itshape В. Ф. Яковлев} <<Физика для дураков>>\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no В in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Я in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.64 &
+       \vspace{1dd}{\bf Математический кружок}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.64 & \vspace{1dd}{\bf
+                        Математический кружок}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ж in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.65 {\bf
+          48} & {\itshape Д. К. Фаддеев, М. С. Никулин, И. Ф. Соколовский.} ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.65 {\bf 48} &
+                {\itshape Д. К. Фаддеев, М. С. Никулин, И. Ф. Соколовский.} ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no Д in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no И in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no О in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.66 &
+       \vspace{1dd}{\bf Практикум абитуриента}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.66 & \vspace{1dd}{\bf
+                        Практикум абитуриента}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no П in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.67 {\bf
+          44} & {\itshape В. Ф. Яковлев.} <<Физика для дураков>>\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.67 {\bf 44} &
+                {\itshape В. Ф. Яковлев.} <<Физика для дураков>>\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no В in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Я in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.68 {\bf
+          54} & {\itshape В. А. Петров.} Неравенства и графики\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.68 {\bf 54} &
+                {\itshape В. А. Петров.} Неравенства и графики\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no В in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no А in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no П in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.69 {\bf
+          56} & {\itshape А. И. Буздин, С. С. Кротов.} Поверхностное натяжен...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.69 {\bf 56} &
+                {\itshape А. И. Буздин, С. С. Кротов.} Поверхностное натяжен...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no А in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no И in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no Б in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no С in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-italic]:mapping=tex-text;!
+Missing character: There is no П in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ж in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+l.70 \vspace{1dd}&
+                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.71 {\bf
+          62} & {\bf Варианты вступительных экзаменов}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.71 {\bf 62} &
+                {\bf Варианты вступительных экзаменов}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.71 {\bf 62} & {\bf
+                     Варианты вступительных экзаменов}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no В in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no э in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.72 &
+       \vspace{1dd}{\bf Информация}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.72 & \vspace{1dd}{\bf
+                        Информация}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no И in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.73 {\bf
+          68} & Заочная физическая школа при МГУ\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.73 {\bf 68} &
+                Заочная физическая школа при МГУ\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no З in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no М in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no У in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.74 {\bf
+          69} & Омскому НОУ - 20 лет\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.74 {\bf 69} &
+                Омскому НОУ - 20 лет\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no О in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no О in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no У in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.75 {\bf
+          73} & {\bf Ответы, указания решения}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.75 {\bf 73} &
+                {\bf Ответы, указания решения}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.75 {\bf 73} & {\bf
+                     Ответы, указания решения}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no О in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.76 &
+       {\bf <<Квант>> улыбается} {\it (61)}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.76 & {\bf
+            <<Квант>> улыбается} {\it (61)}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.76 & {\bf <<Квант>> улыбается} {\it
+                                      (61)}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.77 &
+       {\bf Смесь} {\it (72)}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.77 & {\bf
+            Смесь} {\it (72)}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no С in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.77 & {\bf Смесь} {\it
+                        (72)}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.78 &
+       \vspace{1dd}{\bf Наша обложка}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.78 & \vspace{1dd}{\bf
+                        Наша обложка}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ж in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.79 {\bf
+          1} & {\it Читайте в этом номере статью на с. 2!}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.79 {\bf 1} &
+               {\it Читайте в этом номере статью на с. 2!}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.79 {\bf 1} & {\it
+                    Читайте в этом номере статью на с. 2!}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no э in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ю in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.80 {\bf
+          2} & {\it Этот рисунок Леонардо да Винчи, сделанный 500 лет назад,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.80 {\bf 2} &
+               {\it Этот рисунок Леонардо да Винчи, сделанный 500 лет назад,...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.80 {\bf 2} & {\it
+                    Этот рисунок Леонардо да Винчи, сделанный 500 лет назад,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Э in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no В in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no б in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no п in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no э in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.81 {\bf
+          3} & {\it Шахматная страничка}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.81 {\bf 3} &
+               {\it Шахматная страничка}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.81 {\bf 3} & {\it
+                    Шахматная страничка}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Ш in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no х in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+! Undefined control sequence.
+l.82 {\bf
+          4} & {\it Головоломка Рамсея.}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.82 {\bf 4} &
+               {\it Головоломка Рамсея.}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.82 {\bf 4} & {\it
+                    Головоломка Рамсея.}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Г in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no Р in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman7-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman7-regular]:mapping=tex-text;!
+
+! LaTeX Error: \begin{minipage} on input line 34 ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Calculating math sizes for size <21.40016> on input line 88
+.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <21.40016> not available
+(Font)              size <20.74> substituted on input line 88.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <14.98004> not available
+(Font)              size <14.4> substituted on input line 88.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <21.40016> not available
+(Font)              size <20.74> substituted on input line 88.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <14.98004> not available
+(Font)              size <14.4> substituted on input line 88.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <21.40016> not available
+(Font)              size <20.74> substituted on input line 88.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <14.98004> not available
+(Font)              size <14.4> substituted on input line 88.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <21.40016> on input line 88.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.98004> on input line 88.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.70007> on input line 88.
+LaTeX Font Info:    Calculating math sizes for size <7.49005> on input line 89.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.49005> not available
+(Font)              size <7> substituted on input line 89.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.74503> not available
+(Font)              size <5> substituted on input line 89.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.49005> not available
+(Font)              size <7> substituted on input line 89.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.74503> not available
+(Font)              size <5> substituted on input line 89.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.49005> not available
+(Font)              size <7> substituted on input line 89.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.74503> not available
+(Font)              size <5> substituted on input line 89.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.49005> on input line 89.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.24301> on input line 89.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <3.74503> on input line 89.
+Missing character: There is no И in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no ь in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no Н in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no Г in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no д in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no ц in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no я in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no ф in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no з in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no м in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no ч in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no с in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no к in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no о in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no й in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no л in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no и in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no е in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no у in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no р in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no ы in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no К in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no в in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no а in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no н in font [lmroman6-regular]:mapping=tex-text;!
+Missing character: There is no т in font [lmroman6-regular]:mapping=tex-text;!
+
+Overfull \hbox (19.99998pt too wide) in paragraph at lines 9--98
+[][][] 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1] (titular.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.25497pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 353 strings out of 410527
+ 8930 string characters out of 2820268
+ 345019 words of memory out of 3000000
+ 21582 multiletter control sequences out of 15000+600000
+ 473929 words of font info for 56 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 33i,5n,35p,238b,254s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+Output written on titular.pdf (1 page).
